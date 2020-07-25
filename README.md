@@ -1,3 +1,9 @@
+This app is made purely for learning process.<br>It has a counter button which increments the value by 1. It also has navbar which shows the exact no of items present.<br>The increment key increases the value by 1 and the decrement key decreases the value 1. The drecrement key disables when the value the zero.<br>
+With the reset button we can reset all the values to zero and the zero value shows with a new css. The delete button deletes the item. 
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
